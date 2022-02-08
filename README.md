@@ -1,4 +1,4 @@
-# HolaMundo
+# HolaOtroMundo
 Mi primer repositorio de prueba
 
 Autor: Ricardo Palacios
